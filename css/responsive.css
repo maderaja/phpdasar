@@ -1,0 +1,27 @@
+@media screen and (max-width: 600px) {
+  body{
+    background-color: #5a154c;
+}
+}
+
+@media screen and (max-width: 800px) {
+  
+   body{
+    background-color: #5a154c;
+}
+
+}
+
+@media screen and (max-width: 1199px) {
+  
+.desc{
+        color: #9e005d;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+  
+    
+
+}
